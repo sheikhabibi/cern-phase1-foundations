@@ -1,7 +1,6 @@
 # Ignore Data Files (Too big for GitHub)
 data_files/
 *.csv
-*.dat
 
 # Ignore Python Cache
 __pycache__/
@@ -12,4 +11,3 @@ __pycache__/
 
 # Ignore Environment
 venv/
-env/
